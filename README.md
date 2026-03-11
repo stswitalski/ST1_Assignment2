@@ -1,1 +1,1 @@
-# ST1_Assignment2
+# ST1_Assignment2_Weekly
